@@ -52,3 +52,5 @@ jobs:
           # srm_apikey: ${{ secrets.SRM_API_KEY }}
           # srm_assessment_types: "SCA,SAST"
 
+          sarif_file: results.sarif
+
